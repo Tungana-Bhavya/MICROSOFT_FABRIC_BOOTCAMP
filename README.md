@@ -34,12 +34,15 @@ This repository documents hands-on exercises completed during the Microsoft Fabr
 
 ### Class 6: Explore Data Factory – Dataflow Gen2
 
-## 🧪 Exercise 01 – Load Data with Dataflow Gen2
+## 🧪 Exercise 01 – Data Landing and Loading with Dataflow Gen2
 
-- Loaded multiple datasets from a Web API source  
-- Routed data to Warehouse and Lakehouse based on dataset  
-- Added calculated columns (e.g., **GrossAmount** in Sales)
+This exercise covers loading data from a single Web API source and managing it across storage destinations in Microsoft Fabric, with transformations.
 
+| Task                                      | Description                                               | Link                                                       |
+|-------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|
+| 1.1 Load Data via Web API                   | Load datasets from GitHub raw links using Web API         | [Exercise 1.1 - Data Loading](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/WEBAPI_DATAFLOW/DATA_LOADING)             |
+| 1.2 Transform and Load Data into Warehouse  | Transform and load the `Sales` dataset into the Warehouse | [Exercise 1.2 - Warehouse Destination](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/WEBAPI_DATAFLOW/WAREHOUSE_DESTINATION)   |
+| 1.3 Landing Data into Lakehouse Storage     | Store `Items`, `Customers`, and `Geography` datasets in the Lakehouse for further use | [Exercise 1.3 - Lakehouse Destination](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/WEBAPI_DATAFLOW/LAKEHOUSE_DESTINATION) |
 ---
 
 ## 🧪 Exercise 02 – Power Query Transformations
