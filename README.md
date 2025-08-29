@@ -50,7 +50,7 @@ This section documents various data transformation techniques using **Power Quer
 
 | Task               | Description                                                   | Link               |
 |--------------------|---------------------------------------------------------------|--------------------|
-| Pivot              | Convert rows into columns based on a category or key          | [View Details]()   |
+| Pivot              | Convert rows into columns based on a category or key          | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/PIVOT)   |
 | Unpivot            | Convert columns into attribute-value rows                     | [View Details]()   |
 | Gap Filling        | Fill down or fill up missing values in a column               | [View Details]()   |
 | Combine & Split    | Combine multiple columns or split one column by delimiter     | [View Details]()   |
