@@ -1,4 +1,4 @@
-# Data Transformation using Power Query (Dataflow Gen2)
+# How to Pivot Data using Power Query (Dataflow Gen2)
 
 This exercise explains how to transform data using Power Query in Dataflow Gen2. The process involves applying a **Pivot** operation to reshape and summarize a dataset.
 
@@ -33,5 +33,5 @@ Values are aggregated using the **Sum** function.
 ![Step 3: Pivoted Output](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/blob/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/UNPIVOT/IMAGES/UNPIVOT_3.jpg)
 
 ---
-
+### Key Points
 This transformation reshapes and summarizes the data, making it ready for analysis and reporting.
