@@ -1,4 +1,4 @@
-# Unpivot Transformation
+# How to Unpivot Data in Power Query (Dataflow Gen2)
 
 This exercise demonstrates how to perform the **Unpivot** operation using Power Query in Dataflow Gen2, after loading data via Web API.
 
