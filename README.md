@@ -1,37 +1,85 @@
-# MICROSOFT_FABRIC_BOOTCAMP
+# MICROSOFT FABRIC BOOTCAMP – LEARNING JOURNEY
 
-[WEEK 1]()</br>
+This repository documents hands-on exercises completed during the Microsoft Fabric Bootcamp. It covers key concepts such as Lakehouse, Warehouse, Data Pipelines, and practical experience with Dataflow Gen2 and Power Query transformations within Microsoft Fabric.
 
-Class 1 : Introduction to Microsoft Fabric </br>
-Class 2 : What is Workspace and Lakehouse
+---
 
-[WEEK 2]()
+## 📅 Week 1
 
-Class 3 : Explore Lakehouse in Microsoft Fabric</br>
-Class 4 : Explore Lakehouse with Spark
+### Class 1: Introduction to Microsoft Fabric
+- What is Microsoft Fabric?
+- Key Features of Microsoft Fabric
+- Overview of OneLakehouse architecture
+- Microsoft Fabric components and ecosystem
+- What is a Lakehouse?
+- What is a Warehouse?
+- Use cases and business value
 
-[WEEK 3]()
+### Class 2: Workspace and Lakehouse Concepts
+- Understanding Workspaces
+- Introduction to Lakehouse architecture
 
-Class 5 : Explore Warehouse in Microsoft Fabric </br>
-Class 6 : Explore Data Factory - Dataflow Gen 2</br>
-Exercise 1 :</br>
-Exercise 2 : Power Query Exercise</br>
-1. Pivot </br>
-2. Unpivot </br>
-3. Transpose </br>
-4. Gap </br>
-5. Text operations </br>
-6. Combine and Split </br>
-7. Append Queries </br>
-8. Date and Time </br>
-9. Joins (Inner, left, right, anti-left, anti-right, full) </br>
+---
 
+## 📅 Week 2
 
-[WEEK 4]()
+### Class 3: Explore Lakehouse in Microsoft Fabric  
+### Class 4: Explore Lakehouse with Spark
 
-Class 7 : Explore Data Pipeline in Microsoft Fabric </br>
-Class 8 :
+---
 
-[WEEK 5]()
+## 📅 Week 3
 
-[WEEK 6]()
+### Class 5: Explore Warehouse in Microsoft Fabric  
+
+### Class 6: Explore Data Factory – Dataflow Gen2
+
+## 🧪 Exercise 01 – Load Data with Dataflow Gen2
+
+- Loaded multiple datasets from a Web API source  
+- Routed data to Warehouse and Lakehouse based on dataset  
+- Added calculated columns (e.g., **GrossAmount** in Sales)
+
+---
+
+## 🧪 Exercise 02 – Power Query Transformations
+
+This section documents various data transformation techniques using **Power Query** in Microsoft Fabric.
+
+### Transformation Tasks
+
+| Task               | Description                                                   | Link               |
+|--------------------|---------------------------------------------------------------|--------------------|
+| Pivot              | Convert rows into columns based on a category or key          | [View Details]()   |
+| Unpivot            | Convert columns into attribute-value rows                     | [View Details]()   |
+| Gap Filling        | Fill down or fill up missing values in a column               | [View Details]()   |
+| Combine & Split    | Combine multiple columns or split one column by delimiter     | [View Details]()   |
+| Transpose          | Switch rows into columns or columns into rows                 | [View Details]()   |
+| Replace Values     | Replace specific values within columns                        | [View Details]()   |
+| Joins              | Merge tables using join types (Inner, Left, Right, etc.)      | [View Details]()   |
+| Append Queries     | Stack multiple queries (tables) on top of each other          | [View Details]()   |
+| Date and Time      | Extract or manipulate date and time components                | [View Details]()   |
+
+---
+
+## 📅 Week 4
+
+### Class 7: Explore Data Pipeline in Microsoft Fabric  
+- Creating and configuring pipelines  
+- Adding pipeline activities
+- Scheduling and monitoring pipeline runs
+- 
+### Class 8: Working with Notebooks and PySpark  
+- Introduction to notebooks in Microsoft Fabric  
+- Creating and using notebooks within a Lakehouse  
+- Loading data from Lakehouse tables into PySpark DataFrames  
+- Performing transformations and analysis using PySpark  
+- Demonstrated different types of joins using PySpark:
+  - Inner Join  
+  - Left Join  
+  - Right Join  
+  - Full Outer Join
+  - Left Anti Join
+  - Right Anti Join
+  - Full join
+- Filtering, selecting columns, and aggregating data using PySpark
