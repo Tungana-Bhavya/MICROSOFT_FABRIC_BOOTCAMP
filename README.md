@@ -54,7 +54,7 @@ This section documents various data transformation techniques using **Power Quer
 | Task               | Description                                                   | Link               |
 |--------------------|---------------------------------------------------------------|--------------------|
 | Pivot              | Convert rows into columns based on a category or key          | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/PIVOT)   |
-| Unpivot            | Convert columns into attribute-value rows                     | [View Details]()   |
+| Unpivot            | Convert columns into attribute-value rows                     | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/UNPIVOT)   |
 | Gap Filling        | Fill down or fill up missing values in a column               | [View Details]()   |
 | Combine & Split    | Combine multiple columns or split one column by delimiter     | [View Details]()   |
 | Transpose          | Switch rows into columns or columns into rows                 | [View Details]()   |
@@ -86,3 +86,11 @@ This section documents various data transformation techniques using **Power Quer
   - Right Anti Join
   - Full join
 - Filtering, selecting columns, and aggregating data using PySpark
+
+## 📅 Week 5
+
+### Class 9: Working with Direct Lake Semantic Model
+- Creating Semantic Model
+- Creating Report
+  
+### Class 10: 
