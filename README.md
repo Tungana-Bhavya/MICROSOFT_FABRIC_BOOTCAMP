@@ -51,17 +51,17 @@ This section documents various data transformation techniques using **Power Quer
 
 ### Transformation Tasks
 
-| Task               | Description                                                   | Link               |
-|--------------------|---------------------------------------------------------------|--------------------|
-| Pivot              | Convert rows into columns based on a category or key          | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/PIVOT)   |
-| Unpivot            | Convert columns into attribute-value rows                     | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/UNPIVOT)   |
-| Gap Filling        | Fill down or fill up missing values in a column               | [View Details]()   |
-| Combine & Split    | Combine multiple columns or split one column by delimiter     | [View Details]()   |
-| Transpose          | Switch rows into columns or columns into rows                 | [View Details]()   |
-| Replace Values     | Replace specific values within columns                        | [View Details]()   |
-| Joins              | Merge tables using join types (Inner, Left, Right, etc.)      | [View Details]()   |
-| Append Queries     | Stack multiple queries (tables) on top of each other          | [View Details]()   |
-| Date and Time      | Extract or manipulate date and time components                | [View Details]()   |
+| Task               | Link               |
+|--------------------|--------------------|
+| Pivot              | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/PIVOT)   |
+| Unpivot            | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/UNPIVOT)   |
+| Gap Filling        | [View Details]()   |
+| Combine & Split    | [View Details]()   |
+| Transpose          | [View Details]()   |
+| Replace Values     | [View Details]()   |
+| Joins              | [View Details]()   |
+| Append Queries     | [View Details]()   |
+| Date and Time      | [View Details]()   |
 
 ---
 
