@@ -68,10 +68,18 @@ This section documents various data transformation techniques using **Power Quer
 ## 📅 Week 4
 
 ### Class 7: Explore Data Pipeline in Microsoft Fabric  
-- Creating and configuring pipelines  
-- Adding pipeline activities
-- Scheduling and monitoring pipeline runs
-- 
+- Creating Pipeline using Dataflow Gen2
+- Creating and naming a new pipeline
+- Adding pipeline activities and configuring Copy Data Assistant
+- Connecting to HTTP data source (GitHub raw Excel)
+- Configuring Excel file format and previewing data
+- Selecting OneLake Lakehouse as destination and defining load settings
+- Mapping data types at destination
+- Validating and running the pipeline
+- Adding Dataflow activity and setting execution order
+- Setting up failure notifications via Outlook
+- Scheduling pipeline runs for automation
+
 ### Class 8: Working with Notebooks and PySpark  
 - Introduction to notebooks in Microsoft Fabric  
 - Creating and using notebooks within a Lakehouse  
