@@ -97,13 +97,4 @@ The selected tables are successfully loaded into the Dataflow Gen2 canvas and ar
 
 ---
 
-## Key Learnings
-
-- How to configure and connect to a **Web API** data source in Microsoft Fabric  
-- Loading multiple datasets from an external Excel file  
-- Navigating and using the Dataflow Gen2 interface for data ingestion  
-- Preparing data for further transformation and analysis  
-
-
----
 
