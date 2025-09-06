@@ -1,4 +1,4 @@
-# Sales Data Integration using Dataflow Gen2 & Microsoft Fabric Warehouse
+# Transforming and Loading Data into Microsoft Fabric Warehouse
 
 This document outlines the step-by-step process for transforming and loading **Sales data** into a **Microsoft Fabric Warehouse** using **Dataflow Gen2**.
 
