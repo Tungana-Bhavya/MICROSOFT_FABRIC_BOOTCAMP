@@ -11,19 +11,53 @@ This repository documents hands-on exercises completed during the Microsoft Fabr
 - Key Features of Microsoft Fabric
 - Overview of OneLakehouse architecture
 - Microsoft Fabric components and ecosystem
-- What is a Lakehouse?
-- What is a Warehouse?
 - Use cases and business value
 
+---
+
 ### Class 2: Workspace and Lakehouse Concepts
-- Understanding Workspaces
-- Introduction to Lakehouse architecture
+1. Free Mirroring Storage </br>
+- Understanding the benefits of mirrored data storage for reliability.
+
+2. Who Should Use Microsoft Fabric</br>
+- Identifying target users and organizations for Fabric adoption.
+
+3. OneLake Overview</br>
+- Introduction to Microsoft Fabric’s unified data lake.
+
+4. What is Lakehouse</br>
+- Exploring the hybrid data storage and analytics architecture.
+
+5. What is Warehouse</br>
+- Explanation of the compute layer used for querying data.
+
+6. Why We Need Domains</br>
+- Importance of domains for managing data access and governance.
+
+7. Admin Portal Overview</br>
+- Managing settings and resources through the Fabric admin portal.
+
+8. How to Create a Workspace</br>
+- Step-by-step process of setting up a workspace in Fabric.
 
 ---
 
 ## 📅 Week 2
 
-### Class 3: Explore Lakehouse in Microsoft Fabric  
+### Class 3: Explore Lakehouse in Microsoft Fabric
+1. Worked with SQL Query Editor using T-SQL
+- Querying Lakehouse tables via SQL Analytics Endpoint
+
+2. Used Notebook in Microsoft Fabric
+- Running T-SQL queries interactively and viewing results
+
+3. Explored Lakehouse Structure
+- Accessed schemas and tables like fact_sale and dimension_stock_item
+
+**Notebook Link:** [click here](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/blob/main/DATAFLOWGEN2/TSQL/FILES/Lakehouse%20T-SQL.ipynb)
+
+---
+
 ### Class 4: Explore Lakehouse with Spark
 
 ---
@@ -31,6 +65,11 @@ This repository documents hands-on exercises completed during the Microsoft Fabr
 ## 📅 Week 3
 
 ### Class 5: Explore Warehouse in Microsoft Fabric  
+Practiced T-SQL Queries in Notebook (Connected to Warehouse)
+
+**Notebook Link:** [click here](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/blob/main/DATAFLOWGEN2/TSQL/FILES/Notebook%201.ipynb)
+
+---
 
 ### Class 6: Explore Data Factory – Dataflow Gen2
 
@@ -55,12 +94,12 @@ This section documents various data transformation techniques using **Power Quer
 |--------------------|--------------------|
 | Pivot              | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/PIVOT)   |
 | Unpivot            | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/UNPIVOT)   |
-| Gap Filling        | [View Details]()   |
-| Combine & Split    | [View Details]()   |
-| Transpose          | [View Details]()   |
-| Replace Values     | [View Details]()   |
-| Joins              | [View Details]()   |
-| Append Queries     | [View Details]()   |
+| Gap Filling        | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/GAP)   |
+| Combine & Split    | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/COMBINE_SPLIT)   |
+| Transpose          | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/TRANSPOSE)   |
+| Replace Values     | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/REPLACE)   |
+| Joins              | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/JOINS)   |
+| Append Queries     | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/APPEND_QUERIES)   |
 | Date and Time      | [View Details]()   |
 
 ---
@@ -79,6 +118,10 @@ This section documents various data transformation techniques using **Power Quer
 - Adding Dataflow activity and setting execution order
 - Setting up failure notifications via Outlook
 - Scheduling pipeline runs for automation
+
+**README FILE:** [click here](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/PIPELINE)
+
+---
 
 ### Class 8: Working with Notebooks and PySpark  
 - Introduction to notebooks in Microsoft Fabric  
@@ -100,5 +143,7 @@ This section documents various data transformation techniques using **Power Quer
 ### Class 9: Working with Direct Lake Semantic Model
 - Creating Semantic Model
 - Creating Report
-  
+
+---
+
 ### Class 10: 
