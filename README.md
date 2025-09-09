@@ -134,9 +134,16 @@ This section documents various data transformation techniques using **Power Quer
   - Right Join  
   - Full Outer Join
   - Left Anti Join
-  - Right Anti Join
   - Full join
-- Filtering, selecting columns, and aggregating data using PySpark
+  - cross join
+- Filtering, selecting columns, Dropping columns, and aggregating data using PySpark
+- Calculating Gross Sales, COGS, Discount using withColumn
+- Saving Dataframe as delta table in pyspark
+- Saving a DataFrame as a delta Table in Overwrite Mode
+
+**Notebook Link:** [click here](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/blob/main/DATAFLOWGEN2/PYSPARK/PYSPARK_CMDS.ipynb)
+
+---
 
 ## 📅 Week 5
 
