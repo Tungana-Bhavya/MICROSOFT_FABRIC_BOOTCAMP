@@ -61,7 +61,7 @@ This repository documents hands-on exercises completed during the Microsoft Fabr
 ### Class 4: Explore Lakehouse with Spark
 Practiced Spark SQL queries in a notebook connected to a Lakehouse.
 
-**Notebook Link:** [click here]()
+**Notebook Link:** [click here](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/blob/main/DATAFLOWGEN2/SPARK%20SQL/Spark%20SQL%20Notebook.ipynb)
 
 
 ---
