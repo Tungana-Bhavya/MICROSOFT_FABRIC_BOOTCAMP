@@ -59,6 +59,10 @@ This repository documents hands-on exercises completed during the Microsoft Fabr
 ---
 
 ### Class 4: Explore Lakehouse with Spark
+Practiced Spark SQL queries in a notebook connected to a Lakehouse.
+
+**Notebook Link:** [click here]()
+
 
 ---
 
