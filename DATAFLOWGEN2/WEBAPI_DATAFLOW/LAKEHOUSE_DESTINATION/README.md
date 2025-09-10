@@ -1,4 +1,4 @@
-Landing Data into Microsoft Fabric Lakehouse Using Dataflow Gen2
+# Landing Data into Microsoft Fabric Lakehouse Using Dataflow Gen2
 
 This document provides a step-by-step guide to load and configure source data tables into Microsoft Fabric Lakehouse using Dataflow Gen2.
 
