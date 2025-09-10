@@ -104,7 +104,7 @@ This section documents various data transformation techniques using **Power Quer
 | Replace Values     | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/REPLACE)   |
 | Joins              | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/JOINS)   |
 | Append Queries     | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/APPEND_QUERIES)   |
-| Date and Time      | [View Details]()   |
+| Date and Time      | [View Details](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/POWER_QUERY_EXERCISE/DATE_TIME)   |
 
 ---
 
@@ -152,7 +152,12 @@ This section documents various data transformation techniques using **Power Quer
 ## 📅 Week 5
 
 ### Class 9: Working with Direct Lake Semantic Model
-- Creating Semantic Model
+- Workspace creation in Fabric  
+- Lakehouse setup with Master and Fact schemas  
+- Creating table shortcuts from Lakehouse and Warehouse  
+- Configuring a semantic model using Direct Lake  
+- Creating and activating table relationships  
+- Finalizing model for reporting
 - Creating Report
 
 ---
