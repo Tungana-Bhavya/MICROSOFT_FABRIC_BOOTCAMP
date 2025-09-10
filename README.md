@@ -88,7 +88,7 @@ This exercise covers loading data from a single Web API source and managing it a
 | 1.3 Landing Data into Lakehouse Storage     | Store `Items`, `Customers`, and `Geography` datasets in the Lakehouse for further use | [Exercise 1.3 - Lakehouse Destination](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/WEBAPI_DATAFLOW/LAKEHOUSE_DESTINATION) |
 ---
 
-## 🧪 Exercise 02 – Power Query Transformations
+## Exercise 02 – Power Query Transformations
 
 This section documents various data transformation techniques using **Power Query** in Microsoft Fabric.
 
@@ -159,6 +159,8 @@ This section documents various data transformation techniques using **Power Quer
 - Creating and activating table relationships  
 - Finalizing model for reporting
 - Creating Report
+
+**Notebook Link:** [click here](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/SEMANTIC_MODEL_AND_REPORTING)
 
 ---
 
