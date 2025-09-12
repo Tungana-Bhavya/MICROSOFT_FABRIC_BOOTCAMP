@@ -242,13 +242,6 @@ Pipeline is complete with **Copy Data**, **Dataflow**, **Outlook notification**,
 
 
 ---
-Step 29: Finalize Pipeline Setup
-
- The pipeline setup is now complete, including:
-- Copy Data activity for loading GitHub data
-- Dataflow activity triggered on success
-- Outlook notification for failures
-- Scheduling configuration to automate execution
   
 ## ✅ Output Summary
 
