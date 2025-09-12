@@ -1,10 +1,10 @@
 # MICROSOFT FABRIC BOOTCAMP – LEARNING JOURNEY
 
-This repository documents hands-on exercises completed during the Microsoft Fabric Bootcamp. It covers key concepts such as Lakehouse, Warehouse, Data Pipelines, and practical experience with Dataflow Gen2 and Power Query transformations within Microsoft Fabric.
+This repository documents hands-on exercises completed during the Microsoft Fabric Bootcamp. It covers key concepts such as Lakehouse, Warehouse, Power Query transformations, Data Pipelines, Semantic Model, Dashboard Making, Report Making and practical experience with Dataflow Gen2 within Microsoft Fabric.
 
 ---
 
-## 📅 Week 1
+## Week 1
 
 ### Class 1: Introduction to Microsoft Fabric
 - What is Microsoft Fabric?
@@ -42,7 +42,7 @@ This repository documents hands-on exercises completed during the Microsoft Fabr
 
 ---
 
-## 📅 Week 2
+## Week 2
 
 ### Class 3: Explore Lakehouse in Microsoft Fabric
 1. Worked with SQL Query Editor using T-SQL
@@ -66,7 +66,7 @@ Practiced Spark SQL queries in a notebook connected to a Lakehouse.
 
 ---
 
-## 📅 Week 3
+## Week 3
 
 ### Class 5: Explore Warehouse in Microsoft Fabric  
 Practiced T-SQL Queries in Notebook (Connected to Warehouse)
@@ -77,7 +77,7 @@ Practiced T-SQL Queries in Notebook (Connected to Warehouse)
 
 ### Class 6: Explore Data Factory – Dataflow Gen2
 
-## 🧪 Exercise 01 – Data Landing and Loading with Dataflow Gen2
+## Exercise 01 – Data Landing and Loading with Dataflow Gen2
 
 This exercise covers loading data from a single Web API source and managing it across storage destinations in Microsoft Fabric, with transformations.
 
@@ -108,7 +108,7 @@ This section documents various data transformation techniques using **Power Quer
 
 ---
 
-## 📅 Week 4
+## Week 4
 
 ### Class 7: Explore Data Pipeline in Microsoft Fabric  
 - Creating Pipeline using Dataflow Gen2
@@ -149,7 +149,7 @@ This section documents various data transformation techniques using **Power Quer
 
 ---
 
-## 📅 Week 5
+## Week 5
 
 ### Class 9: Working with Direct Lake Semantic Model
 - Workspace creation in Fabric  
@@ -164,4 +164,8 @@ This section documents various data transformation techniques using **Power Quer
 
 ---
 
-### Class 10: 
+### Class 10: KQL Queries and Dashboard Making
+- Working with KQL Queries
+- Making Real Time Dashboard
+
+**Link:** [click here](https://github.com/Tungana-Bhavya/MICROSOFT_FABRIC_BOOTCAMP/tree/main/DATAFLOWGEN2/KQL_N_REAL_TIME_DASHBOARD/IMAGES)
